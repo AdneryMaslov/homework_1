@@ -182,3 +182,8 @@ for i, (d1, d2, d3) in enumerate(matrix_sizes):
     table.add_row(["-"*30, "-"*10, "-"*10, "-"*10])
 
 print(table)
+
+
+# 3.4 Анализ результатов
+
+# Указал в отчете о работе (HOMEWORK_REPORT.md)
