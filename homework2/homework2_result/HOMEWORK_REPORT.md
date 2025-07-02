@@ -9,7 +9,19 @@
 ### Цель задания
 Закрепить навыки работы с PyTorch API, изучить модификацию моделей и работу с различными датасетами.
 
-Добавил utils_hw.py для общих, многократно используемых функций.
+### Структура:
+```
+homework2_result/
+├── homework_model_modification.py
+├── homework_datasets.py
+├── homework_experiments.py
+├── utils_hw.py              # для общих, многократно используемых функций
+├── data/                    # Датасеты
+├── models/                  # Сохраненные модели
+├── plots/                   # Графики и визуализации
+├── result_screenshots/      # Скриншоты терминала
+└── HOMEWORK_REPORT.md       # Описание решения
+```
 
 
 ## Задание 1: Модификация существующих моделей (homework_model_modification.py)
