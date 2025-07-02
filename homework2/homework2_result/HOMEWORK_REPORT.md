@@ -68,8 +68,8 @@ homework2_result/
 ## Задание 2: Работа с датасетами (homework_datasets.py)
 В этом задании реализовал обработку реальных данных в CSV с помощью кастомного класса CSVDataset.
 
-**Датасеты:**
-Регрессия: https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download
+**Датасеты:** \
+Регрессия: https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download \
 Классификация: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 Я создал CSVDataset, который автоматически загружает, предобрабатывает и готовит данные для PyTorch. При запуске homework_datasets.py лог показал, что оба датасета (insurance.csv и breast-cancer.csv) были успешно загружены и обработаны.
