@@ -100,6 +100,7 @@
 
 ### Результат:
 ![Результаты](result_screenshots/reg_results.png)
+
 Подробные выводы в папке result_screenshots
 
 ### Анализ и графики
