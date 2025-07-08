@@ -11,6 +11,7 @@ venv/
 .venv/
 
 data/MNIST/raw
+data/
 
 # Системные файлы macOS и других ОС
 .DS_Store
