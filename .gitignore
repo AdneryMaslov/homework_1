@@ -10,8 +10,7 @@ env/
 venv/
 .venv/
 
-data/MNIST/raw
-data/
+MNIST/raw
 
 # Системные файлы macOS и других ОС
 .DS_Store
@@ -162,6 +161,5 @@ dmypy.json
 Thumbs.db
 
 # Project specific
-data/
 *.pyc
 __pycache__/ 
